@@ -70,6 +70,10 @@ a {
     color: #FFB74D
 }
 
+.fa-cart-arrow-down{
+  color: #FFB74D
+}
+
 .card-title {
     margin-bottom: .75rem;
     font-weight: 900;
@@ -85,9 +89,7 @@ a {
     margin-left: 10px
 }
 
-.fa-3x {
-    color: #FFB74D
-}
+
 
 .card-content {
     padding-right: 40px;
@@ -214,6 +216,6 @@ background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%)
     background-position: center center;
     color: #fff;
     height: 500px;
-    
+
     padding-top: 30px;
 }
